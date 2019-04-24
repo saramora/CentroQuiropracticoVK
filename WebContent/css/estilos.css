@@ -1,0 +1,162 @@
+.navbar {
+	margin-bottom: 0;
+}
+
+.cabecera1 {
+	background:#F5962C;
+	color:#fff;
+	padding:20px 0;
+}
+
+.centroQuiro {
+	background:#1278BA;
+	color:#fff;
+	padding:20px 0;
+}
+
+.centroQuiroPortada {
+	background:#FFFFFF;
+	color:#fff;
+}
+
+.menu1 {
+	background:#F5962C;
+	color:#ffffff;
+	font-style:color
+}
+
+.opcionMenu1 {
+	color:white;
+	font-size: medium;
+}
+
+.main {
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+
+.post {
+	padding-bottom:20px;
+	margin-bottom:20px;
+	border-bottom:1px solid #999;
+}
+
+.post .post-title a {
+	color:#333;
+	font-size: 20px;
+}
+
+.post .thumb {
+	margin-right:10px;
+	width:40%;
+}
+
+.post .thumb img {
+	width:100%;
+}
+
+.post .contenedor-botones {
+	width: 100%;
+}
+
+@media screen and (max-width: 768px) {
+	.post .thumb {
+		width: 100%;
+		margin-bottom: 20px;
+		margin-right: 0;
+	}
+}
+
+.footerRedes a {
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.footerContacto p {
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.footerContacto a {
+    color: #ffffff;
+    font-size: 15px;
+}
+
+.letraTitulo {
+font-family: 'Merriweather', serif;
+font-size: 32px;
+}
+
+/*.titulo2.has-line h4:after {
+    content: '';
+    width: 45px;
+    height: 2px;
+    background: #73649c;
+}
+
+.titulo2.has-line.is-inline h4:after {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.titulo2.has-line.text-center.is-block h4:after {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.titulo2.has-line.is-block h4:after {
+    display: block;
+    margin-top: 100px;
+}
+
+.titulo2.white h4 {
+    color: #fff;
+}
+*/
+.titulo2 h4 {
+    color: #105176;
+    font-family: 'Merriweather', serif;
+    font-size: 25px;
+    line-height: 1em;
+    font-weight: bold;
+}
+
+.titulo3 {
+    color: #105176;
+    font-family: 'Merriweather', serif;
+    font-size: 25px;
+    line-height: 1em;
+    font-weight: bold;
+}
+
+.imagenEspecialidades {
+	max-width: 300px;
+	margin: 0 auto;
+}
+
+.especialidadesTitulo {
+	margin-top: 30px;
+    color: #105176;
+    font-size: 18px;
+    line-height: 26px;
+	font-weight: bold;
+	font-family: 'Merriweather', serif;
+	text-align: left;
+}
+
+.especialidadesTexto {
+	margin-bottom: 30px;
+    color: #8e8d8d;
+    font-size: 14px;
+    line-height: 26px;
+	font-family: 'Merriweather', serif;
+	text-align: justify;
+}
+
+.texto2 h2 {
+    color: #105176;
+    font-family: 'Merriweather', serif;
+    font-size: 25px;
+    line-height: 1em;
+    font-weight: bold;
+}
